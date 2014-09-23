@@ -1,0 +1,11 @@
+# Site settings
+title: RG Newsroom
+email: webeditors@registerguard.com
+description: Web information and resources for journalists. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://newsroom.registerguard.com" # the base hostname & protocol for your site
+twitter_username: registerguard
+github_username:  registerguard
+
+# Build settings
+markdown: kramdown
