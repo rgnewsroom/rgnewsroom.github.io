@@ -22,7 +22,7 @@ layout: default
     {% for repo in site.github.public_repositories %}
       <a class="post-link" href="{{ repo.html_url }}/wiki">
         <div class="masonry_item">
-          <h3>{{ repo.name }}</h3>
+          <h5>{{ repo.name }}</h5>
           <p class="newsroom_des">{{ repo.description }}</p>
           <p class="newsroom_up">Last updated on: {{ repo.updated_at | date: "%m/%d/%Y"}}</p>
         </div><!-- /.masonry_item -->
