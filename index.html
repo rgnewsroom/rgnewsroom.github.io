@@ -14,7 +14,7 @@ layout: default
 			{% if repo.name != "rgnewsroom.github.io" %}
 				<a class="post-link" href="{{ repo.html_url }}/wiki">
 					<div class="masonry_item">
-						<h5>{{ repo.name }}</h5>
+						<h4>{{ repo.name }}</h4>
 						<p class="newsroom_des">{{ repo.description }}</p>
 						<p class="newsroom_up">Updated: {{ repo.updated_at | date: "%m/%d/%Y"}}</p>
 					</div><!-- /.masonry_item -->
