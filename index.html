@@ -24,7 +24,7 @@ layout: default
         <div class="masonry_item">
           <h3>{{ repo.name }}</h3>
           <p class="newsroom_des">{{ repo.description }}</p>
-          <p class="newsroom_up">Last updated on: {{ repo.updated | date: "%B %-d %Y"}}</p>
+          <p class="newsroom_up">Last updated on: {{ repo.updated_at | date: "%m/%d/%Y"}}</p>
         </div><!-- /.masonry_item -->
       </a>
     {% endfor %}
