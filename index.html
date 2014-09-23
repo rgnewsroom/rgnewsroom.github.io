@@ -9,12 +9,22 @@ layout: default
   <p>Welcome to The Register-Guard home for web-related tips, tricks, information and resources.</p>
   <p>Below, you will find a set of pages designed to help you tell stories online. Whether you're here to learn about Storify or data visualization, we're glad you stopped by.</p>
 
-  <ul class="post-list">
+<!--   <ul class="post-list">
     {% for repo in site.github.public_repositories %}
       <li>
         <a class="post-link" href="{{ repo.html_url }}/wiki">{{ repo.name }}</a>
-        <!-- <img src="https://raw.githubusercontent/rgnewsroom/{{ repo.name }}/{{ repo.default_branch }}/default.png" width="100%"> -->
+        <img src="https://raw.githubusercontent/rgnewsroom/{{ repo.name }}/{{ repo.default_branch }}/default.png" width="100%">
       </li>
     {% endfor %}
-  </ul>
+  </ul> -->
+
+  <div id="masonry_container">
+    {% for repo in site.github.public_repositories %}
+      <a class="post-link" href="{{ repo.html_url }}/wiki">
+        <div class="masonry_item">
+          {{ repo.name }}
+        </div><!-- /.masonry_item -->
+      </a>
+    {% endfor %}
+  </div><!-- /#masonry_container -->
 </div>

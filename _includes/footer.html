@@ -53,3 +53,17 @@
   </div>
 
 </footer>
+
+<!-- Masonry.js | See: http://masonry.desandro.com/ -->
+<script>
+
+var container = document.querySelector('#masonry_container');
+var msnry = new Masonry( container, {
+	// options
+	columnWidth: 200,
+	itemSelector: '.masonry_item',
+	"gutter": 20,
+	"isFitWidth": true
+});
+
+</script>

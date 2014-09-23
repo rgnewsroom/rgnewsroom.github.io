@@ -8,4 +8,31 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!-- Masonry.js | See: http://masonry.desandro.com/ -->
+	<script src="js/masonry.min.js"></script>
+		
+	<style>
+		
+		.home{
+			max-width: 740px;
+			margin: 0 auto;
+			background: blue;
+		}
+		
+		#masonry_container{
+			margin: 0 auto;
+		}
+		
+		.masonry_item{
+			width:200px;
+			height: 200px;
+			margin-bottom: 20px;
+			background: red;
+			float: left;
+			text-align: center;
+		}
+		
+	</style>
+
 </head>
