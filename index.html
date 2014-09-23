@@ -23,7 +23,8 @@ layout: default
       <a class="post-link" href="{{ repo.html_url }}/wiki">
         <div class="masonry_item">
           <h3>{{ repo.name }}</h3>
-          <p class="masonry_p">{{ repo.description }}</p>
+          <p class="newsroom_des">{{ repo.description }}</p>
+          <p class="newsroom_up">Last updated on: {{ repo.updated }}</p>
         </div><!-- /.masonry_item -->
       </a>
     {% endfor %}
