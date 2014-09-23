@@ -22,7 +22,9 @@ layout: default
     {% for repo in site.github.public_repositories %}
       <a class="post-link" href="{{ repo.html_url }}/wiki">
         <div class="masonry_item">
-          {{ repo.name }}
+          <span>
+            {{ repo.name }}
+          </span>
         </div><!-- /.masonry_item -->
       </a>
     {% endfor %}
