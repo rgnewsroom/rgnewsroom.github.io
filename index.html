@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+	
+	<p>Welcome to The Register-Guard home for web-related tips, tricks, information and resources.</p>
+	<p>Below, you will find a set of pages designed to help you tell stories online. Whether you're here to learn about Storify or data visualization, we're glad you stopped by.</p>
+	
+	<ul class="post-list">
+		{% for post in site.posts %}
+			<li>
+				<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+				
+				<h2>
+					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				</h2>
+			</li>
+		{% endfor %}
+	</ul>
+	
+</div>
