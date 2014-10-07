@@ -48,4 +48,4 @@ tags: newsroom, social, media, breaking
 * 01:45 - RT Ian, Alan, Alisha
 * 02:30 - Tweet: Fire officials say that the Fox Hollow fire has been contained. For more, visit: [link to story]
 
-Clearly this is not the perfect example because we could not have known how large the fire was as of 12:35. But, given other situations a quick acknowledgement tweet is necessary.
+Clearly this is not the perfect example because we could not have known how large the fire was as of 12:35 p.m. But, given other situations a quick acknowledgement tweet is necessary.
