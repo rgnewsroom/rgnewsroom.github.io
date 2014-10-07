@@ -11,7 +11,7 @@ permalink: /repos/
 	<div id="masonry_container">
 		{% for repo in site.github.public_repositories %}
 			{% if repo.name != "rgnewsroom.github.io" %}
-				<a class="post-link" href="{{ repo.html_url }}/wiki">
+				<a class="post-link" href="{{ repo.html_url }}">
 					<div class="masonry_item">
 						<h4>{{ repo.name }}</h4>
 						<p class="newsroom_des">{{ repo.description }}</p>
