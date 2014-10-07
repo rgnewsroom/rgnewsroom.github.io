@@ -12,4 +12,4 @@ To put it simply, CoveritLive is often overkill for a breaking news event. It's 
 
 In some instances, embedding a few tweets or Instagram images may be the best route. But, if the news is big enough to warrant social media reaction, it's probably big enough to warrant a Storify embed.
 
-Check out our [social media embedding tips](http://newsroom.registerguard.com/social-media/2014/10/03/when-to-include-social-media.html) for more on what types of 
+Check out our [social media embedding tips](http://newsroom.registerguard.com/social-media/2014/10/03/when-to-include-social-media.html) for more on embedding social media.
