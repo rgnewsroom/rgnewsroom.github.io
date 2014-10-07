@@ -37,6 +37,10 @@ Notice the whole highlighted line says:
 <p>THIS (seriously, right click on the word to the left)</p>
 ```
 
+See gif of this process:
+
+![this](https://cloud.githubusercontent.com/assets/4853944/4548357/63583ce8-4e54-11e4-98cc-12326077e5d6.gif)
+
 Without going into too much detail, you inspected the paragraph with the content of the word "THIS".
 
 Since you didn't care about any other part of the page, you can ignore all the other code.
