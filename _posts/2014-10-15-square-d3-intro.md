@@ -1,8 +1,8 @@
 ---
 
-published: false
+published: true
 layout: post
-date: {}
+date: 2014-10-15 13:50:12
 categories: data
 tags: d3 data viz
 
