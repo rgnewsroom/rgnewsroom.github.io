@@ -14,8 +14,7 @@ There are a lot of options out there for someone interested in learning more abo
 
 Found a new one today: 
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p>Ooh, <a href="https://twitter.com/Square">@Square</a>&#39;s intro to D3js course for their new engineers: <a href="http://t.co/bAYer6ks3t">http://t.co/bAYer6ks3t</a></p>&mdash; Dan Nguyen (@dancow) <a href="https://twitter.com/dancow/status/522482652134531072">October 15, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![tweet](https://cloud.githubusercontent.com/assets/4853944/4654298/d34eb182-54b5-11e4-8eda-0f295cf58f82.png)](http://t.co/bAYer6ks3t)
 
 Other resources:
 
