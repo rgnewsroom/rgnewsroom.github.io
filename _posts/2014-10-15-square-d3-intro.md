@@ -8,8 +8,6 @@ tags: d3 data viz
 
 ---
 
-## Square d3.js intro
-
 There are a lot of options out there for someone interested in learning more about d3.js data visualization.
 
 Found a new one today: 
