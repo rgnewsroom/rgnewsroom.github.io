@@ -1,9 +1,11 @@
 ---
+
 published: false
 layout: post
 date: {}
 categories: data
 tags: d3 data viz
+
 ---
 
 ## Square d3.js intro
