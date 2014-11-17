@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-date: {}
+date: 2014-11-17
 categories: data
 tags: data map election
 ---
