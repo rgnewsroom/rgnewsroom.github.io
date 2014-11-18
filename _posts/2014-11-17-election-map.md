@@ -165,3 +165,4 @@ The final code should look like this:
 If you want it to show up at the top of your story, follow the above steps except put the code into the WebHTML field.
 
 That should be it! Now you can put maps into all of your stories!
+
