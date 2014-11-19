@@ -1,6 +1,6 @@
 ---
 
-published: false
+published: true
 layout: post
 date: 2014-11-17
 categories: data
