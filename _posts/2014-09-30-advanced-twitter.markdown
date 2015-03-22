@@ -12,7 +12,7 @@ Twitter, love it or hate it, it's a part of journalism. Here are some tricks and
 
 There are a lot of tools out there that can make you a more efficient Twitter user. Tweetdeck (owned by Twitter) and HootSuite are the big ones. These essentially let you set up a Twitter environment with multiple feeds. You can also tweet from multiple accounts.
 
-Learn more about these tools [here](https://github.com/rgnewsroom/twitter/tools/).
+Learn more about these tools [here](http://monitor2.guardnet.com/news/?p=1375#twitter-tools) (private).
 
 ## Search
 
@@ -43,7 +43,9 @@ You can also search between certain dates:
 
 ## Embedding a tweet
 
-We have a full writeup on embedding tweets [here](https://github.com/rgnewsroom/twitter/embeds/), but the TL;DR version is this:
+We have a full writeup on embedding tweets [here](https://github.com/rgnewsroom/twitter/tree/gh-pages/embeds), but the TL;DR version is this:
+
+![embed](https://cloud.githubusercontent.com/assets/4853944/6767600/5f26bda6-cff6-11e4-912a-07d9b89e1d77.gif)
 
 * Go find the `More` or `...` option on any tweet
 * Click embed
