@@ -24,11 +24,9 @@ tags: newsroom, social, media, breaking
 ## Ideal breaking news response timeline
 
 * 12:35 - [Initial call came over the scanner](http://coeapps.eugene-or.gov/RuralFireCad/Details/EventID/14176655)
-* 12:35 - Tweet acknowledgement of situation when confirmed as news: “Fire & EMS are responding to a four-alarm house fire near Spencer Butte. Details to come.”
 * 12:45 - [First public tweet](https://twitter.com/eugmodernmonkey/status/497468600790568960)
-* 12:45 - RT first public tweet
 * 12:48 - Tip email came in with image
-* 12:48 - Tweet: “Smoke billows up from a house fire near Spencer Butte on Fox Hollow Rd. Photo courtesy Duncan Donald. [attach image with his permission]”
+* 12:50 - Tweet acknowledgement of situation. Possibly: “Smoke billows up from a house fire near Spencer Butte on Fox Hollow Rd. Photo courtesy Duncan Donald. [attach image with his permission]”
 * 12:51 - [KVAL was the first news org to tweet about smoke visible over south Eugene](https://twitter.com/KVALnews/status/497470113692413952)
 * 12:58 - [Reader tweeted at the RG](https://twitter.com/dyanamason/status/497471760028430336)
 * 12:58 - Respond to reader tweet
@@ -49,3 +47,5 @@ tags: newsroom, social, media, breaking
 * 02:30 - Tweet: Fire officials say that the Fox Hollow fire has been contained. For more, visit: [link to story]
 
 Clearly this is not the perfect example because we could not have known how large the fire was as of 12:35 p.m. But, given other situations a quick acknowledgement tweet is necessary.
+
+In this case, I think the RG could have been the first news organization to tweet the info, if not a close second. We need to recognize the importance of user tips via social media.
